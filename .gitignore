@@ -52,6 +52,7 @@ src/stamp-h1
 .cproject
 .settings
 .cdtconfig*
+.autotools
 *.orig
 *.log
 *.kdevelop
